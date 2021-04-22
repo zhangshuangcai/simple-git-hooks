@@ -166,3 +166,4 @@ validate the value is set:
 `git config core.hooksPath`
 
 should output: `.git/hooks/`
+# 1
